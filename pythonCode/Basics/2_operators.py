@@ -1,0 +1,6 @@
+#Arithmetic Operator (+,-,*,...)
+#Relational Operator (<,>,<=,....)
+#Assignment Operator (=, +=, ...)
+#Logical Operator (and, or, not)
+#Membership Operator (in, not in)
+#Identity Operator (is, is not)
